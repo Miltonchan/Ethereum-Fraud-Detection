@@ -19,6 +19,9 @@ features1.csv
 XGBoost model:
 detection.ipynb
 
+Accuracy: 0.9033
+----------------
+
 Features:
 Amount_of_sent
 Amount_of_received
