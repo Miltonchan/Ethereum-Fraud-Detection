@@ -14,7 +14,7 @@ dataset_inital
 -transactions.csv.zip
 
 Features creation:
--features1.csv
+features1.csv
 
 XGBoost model:
--detection.ipynb
+detection.ipynb
