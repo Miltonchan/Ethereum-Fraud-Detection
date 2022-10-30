@@ -15,6 +15,7 @@ dataset_inital
 ----------------------------------------------------------------------------------------------------------------
 Features creation:
 features1.csv
+features_doc.docx
 
 XGBoost model:
 detection.ipynb
