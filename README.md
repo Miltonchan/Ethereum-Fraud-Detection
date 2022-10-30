@@ -18,3 +18,29 @@ features1.csv
 
 XGBoost model:
 detection.ipynb
+
+Features:
+Amount_of_sent
+Amount_of_received
+Total_transaction
+Unique_receieved
+Unique_sent
+Max_ETH_sent
+Min_ETH_sent
+Avg ETH sent
+Max ETH received
+Min ETH received
+Avg ETH received
+Total_ETH_sent 
+Total_ETH_received
+Total_tokentransfer_sent
+Total_tokentransfer_received
+Total_gas
+Gas_from_ac
+Gas_to_ac
+Gas_fee_paid
+Avg_time_sent
+Avg_time_recevied
+Unique_sent_token
+Unique_received_token
+![image](https://user-images.githubusercontent.com/68136651/198878221-402c26bb-dcc3-43af-b5f8-46930939feae.png)
